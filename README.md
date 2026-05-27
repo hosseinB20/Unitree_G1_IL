@@ -30,7 +30,7 @@ python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cy
 ```
 python train_act.py
 ```
-2- un this command to deploy the learned policy on G1 robot in Isaac Lab simulation.
+2- Run this command to deploy the learned policy on G1 robot in Isaac Lab simulation.
 ```
 python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cylinder-G129-Dex1-Joint   --enable_dex1_dds   --robot_type g129   --action_source act   --model_path /MODEL PATH/
 ```
