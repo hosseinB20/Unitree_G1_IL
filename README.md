@@ -21,3 +21,7 @@ python robomimic/scripts/train.py \
   --config ~/g1_bc.json \
   --dataset ~/g1_pickplace_robomimic.hdf5
 ```
+3- Run this command to deploy the learned policy on G1 robot in Isaac Lab simulation.
+```
+python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cylinder-G129-Dex1-Joint   --enable_dex1_dds   --robot_type g129   --action_source policy   --model_path /MODEL PATH/
+```
