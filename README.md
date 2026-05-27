@@ -25,7 +25,7 @@ python robomimic/scripts/train.py \
 ```
 python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cylinder-G129-Dex1-Joint   --enable_dex1_dds   --robot_type g129   --action_source policy   --model_path /MODEL PATH/
 ```
-# 4. Unitree_G1 BC Algorithm
+# 4. Unitree_G1 ACT Algorithm
 1- Run this command to train the model via the custom script. 
 ```
 python train_act.py
