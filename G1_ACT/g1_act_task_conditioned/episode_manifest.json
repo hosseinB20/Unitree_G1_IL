@@ -1,0 +1,1838 @@
+[
+  {
+    "episode_index": 0,
+    "task": "Pick up the red cup on the table.",
+    "length": 1154,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000000.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000000.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000000.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000000.mp4"
+  },
+  {
+    "episode_index": 1,
+    "task": "Place the cylinder into the basket.",
+    "length": 1154,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000001.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000001.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000001.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000001.mp4"
+  },
+  {
+    "episode_index": 2,
+    "task": "Pick up the red cup on the table.",
+    "length": 1008,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000002.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000002.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000002.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000002.mp4"
+  },
+  {
+    "episode_index": 3,
+    "task": "Place the cylinder into the basket.",
+    "length": 1008,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000003.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000003.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000003.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000003.mp4"
+  },
+  {
+    "episode_index": 4,
+    "task": "Pick up the red cup on the table.",
+    "length": 905,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000004.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000004.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000004.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000004.mp4"
+  },
+  {
+    "episode_index": 5,
+    "task": "Place the cylinder into the basket.",
+    "length": 905,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000005.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000005.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000005.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000005.mp4"
+  },
+  {
+    "episode_index": 6,
+    "task": "Pick up the red cup on the table.",
+    "length": 1010,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000006.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000006.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000006.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000006.mp4"
+  },
+  {
+    "episode_index": 7,
+    "task": "Place the cylinder into the basket.",
+    "length": 1010,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000007.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000007.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000007.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000007.mp4"
+  },
+  {
+    "episode_index": 8,
+    "task": "Pick up the red cup on the table.",
+    "length": 1086,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000008.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000008.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000008.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000008.mp4"
+  },
+  {
+    "episode_index": 9,
+    "task": "Place the cylinder into the basket.",
+    "length": 1086,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000009.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000009.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000009.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000009.mp4"
+  },
+  {
+    "episode_index": 10,
+    "task": "Pick up the red cup on the table.",
+    "length": 873,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000010.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000010.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000010.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000010.mp4"
+  },
+  {
+    "episode_index": 11,
+    "task": "Place the cylinder into the basket.",
+    "length": 873,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000011.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000011.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000011.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000011.mp4"
+  },
+  {
+    "episode_index": 12,
+    "task": "Pick up the red cup on the table.",
+    "length": 817,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000012.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000012.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000012.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000012.mp4"
+  },
+  {
+    "episode_index": 13,
+    "task": "Place the cylinder into the basket.",
+    "length": 817,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000013.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000013.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000013.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000013.mp4"
+  },
+  {
+    "episode_index": 14,
+    "task": "Pick up the red cup on the table.",
+    "length": 734,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000014.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000014.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000014.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000014.mp4"
+  },
+  {
+    "episode_index": 15,
+    "task": "Place the cylinder into the basket.",
+    "length": 734,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000015.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000015.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000015.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000015.mp4"
+  },
+  {
+    "episode_index": 16,
+    "task": "Pick up the red cup on the table.",
+    "length": 722,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000016.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000016.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000016.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000016.mp4"
+  },
+  {
+    "episode_index": 17,
+    "task": "Pick up the red cup on the table.",
+    "length": 896,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000017.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000017.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000017.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000017.mp4"
+  },
+  {
+    "episode_index": 18,
+    "task": "Place the cylinder into the basket.",
+    "length": 722,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000018.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000018.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000018.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000018.mp4"
+  },
+  {
+    "episode_index": 19,
+    "task": "Pick up the red cup on the table.",
+    "length": 735,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000019.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000019.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000019.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000019.mp4"
+  },
+  {
+    "episode_index": 20,
+    "task": "Place the cylinder into the basket.",
+    "length": 896,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000020.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000020.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000020.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000020.mp4"
+  },
+  {
+    "episode_index": 21,
+    "task": "Pick up the red cup on the table.",
+    "length": 1039,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000021.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000021.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000021.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000021.mp4"
+  },
+  {
+    "episode_index": 22,
+    "task": "Pick up the red cup on the table.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000022.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000022.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000022.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000022.mp4"
+  },
+  {
+    "episode_index": 23,
+    "task": "Place the cylinder into the basket.",
+    "length": 735,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000023.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000023.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000023.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000023.mp4"
+  },
+  {
+    "episode_index": 24,
+    "task": "Pick up the red cup on the table.",
+    "length": 817,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000024.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000024.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000024.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000024.mp4"
+  },
+  {
+    "episode_index": 25,
+    "task": "Place the cylinder into the basket.",
+    "length": 1039,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000025.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000025.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000025.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000025.mp4"
+  },
+  {
+    "episode_index": 26,
+    "task": "Pick up the red cup on the table.",
+    "length": 1094,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000026.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000026.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000026.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000026.mp4"
+  },
+  {
+    "episode_index": 27,
+    "task": "Pick up the red cup on the table.",
+    "length": 873,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000027.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000027.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000027.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000027.mp4"
+  },
+  {
+    "episode_index": 28,
+    "task": "Pick up the red cup on the table.",
+    "length": 915,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000028.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000028.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000028.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000028.mp4"
+  },
+  {
+    "episode_index": 29,
+    "task": "Place the cylinder into the basket.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000029.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000029.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000029.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000029.mp4"
+  },
+  {
+    "episode_index": 30,
+    "task": "Pick up the red cup on the table.",
+    "length": 870,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000030.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000030.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000030.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000030.mp4"
+  },
+  {
+    "episode_index": 31,
+    "task": "Pick up the red cup on the table.",
+    "length": 716,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000031.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000031.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000031.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000031.mp4"
+  },
+  {
+    "episode_index": 32,
+    "task": "Place the cylinder into the basket.",
+    "length": 817,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000032.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000032.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000032.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000032.mp4"
+  },
+  {
+    "episode_index": 33,
+    "task": "Pick up the red cup on the table.",
+    "length": 752,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000033.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000033.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000033.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000033.mp4"
+  },
+  {
+    "episode_index": 34,
+    "task": "Place the cylinder into the basket.",
+    "length": 1094,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000034.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000034.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000034.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000034.mp4"
+  },
+  {
+    "episode_index": 35,
+    "task": "Pick up the red cup on the table.",
+    "length": 810,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000035.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000035.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000035.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000035.mp4"
+  },
+  {
+    "episode_index": 36,
+    "task": "Place the cylinder into the basket.",
+    "length": 873,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000036.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000036.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000036.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000036.mp4"
+  },
+  {
+    "episode_index": 37,
+    "task": "Pick up the red cup on the table.",
+    "length": 736,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000037.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000037.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000037.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000037.mp4"
+  },
+  {
+    "episode_index": 38,
+    "task": "Pick up the red cup on the table.",
+    "length": 877,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000038.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000038.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000038.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000038.mp4"
+  },
+  {
+    "episode_index": 39,
+    "task": "Place the cylinder into the basket.",
+    "length": 915,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000039.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000039.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000039.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000039.mp4"
+  },
+  {
+    "episode_index": 40,
+    "task": "Pick up the red cup on the table.",
+    "length": 871,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000040.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000040.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000040.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000040.mp4"
+  },
+  {
+    "episode_index": 41,
+    "task": "Place the cylinder into the basket.",
+    "length": 870,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000041.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000041.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000041.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000041.mp4"
+  },
+  {
+    "episode_index": 42,
+    "task": "Pick up the red cup on the table.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000042.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000042.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000042.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000042.mp4"
+  },
+  {
+    "episode_index": 43,
+    "task": "Pick up the red cup on the table.",
+    "length": 707,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000043.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000043.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000043.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000043.mp4"
+  },
+  {
+    "episode_index": 44,
+    "task": "Place the cylinder into the basket.",
+    "length": 716,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000044.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000044.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000044.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000044.mp4"
+  },
+  {
+    "episode_index": 45,
+    "task": "Pick up the red cup on the table.",
+    "length": 650,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000045.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000045.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000045.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000045.mp4"
+  },
+  {
+    "episode_index": 46,
+    "task": "Place the cylinder into the basket.",
+    "length": 752,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000046.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000046.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000046.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000046.mp4"
+  },
+  {
+    "episode_index": 47,
+    "task": "Pick up the red cup on the table.",
+    "length": 646,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000047.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000047.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000047.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000047.mp4"
+  },
+  {
+    "episode_index": 48,
+    "task": "Place the cylinder into the basket.",
+    "length": 810,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000048.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000048.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000048.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000048.mp4"
+  },
+  {
+    "episode_index": 49,
+    "task": "Pick up the red cup on the table.",
+    "length": 606,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000049.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000049.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000049.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000049.mp4"
+  },
+  {
+    "episode_index": 50,
+    "task": "Place the cylinder into the basket.",
+    "length": 736,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000050.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000050.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000050.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000050.mp4"
+  },
+  {
+    "episode_index": 51,
+    "task": "Pick up the red cup on the table.",
+    "length": 676,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000051.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000051.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000051.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000051.mp4"
+  },
+  {
+    "episode_index": 52,
+    "task": "Place the cylinder into the basket.",
+    "length": 877,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000052.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000052.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000052.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000052.mp4"
+  },
+  {
+    "episode_index": 53,
+    "task": "Pick up the red cup on the table.",
+    "length": 677,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000053.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000053.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000053.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000053.mp4"
+  },
+  {
+    "episode_index": 54,
+    "task": "Place the cylinder into the basket.",
+    "length": 871,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000054.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000054.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000054.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000054.mp4"
+  },
+  {
+    "episode_index": 55,
+    "task": "Pick up the red cup on the table.",
+    "length": 656,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000055.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000055.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000055.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000055.mp4"
+  },
+  {
+    "episode_index": 56,
+    "task": "Place the cylinder into the basket.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000056.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000056.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000056.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000056.mp4"
+  },
+  {
+    "episode_index": 57,
+    "task": "Pick up the red cup on the table.",
+    "length": 757,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000057.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000057.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000057.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000057.mp4"
+  },
+  {
+    "episode_index": 58,
+    "task": "Place the cylinder into the basket.",
+    "length": 707,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000058.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000058.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000058.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000058.mp4"
+  },
+  {
+    "episode_index": 59,
+    "task": "Pick up the red cup on the table.",
+    "length": 738,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000059.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000059.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000059.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000059.mp4"
+  },
+  {
+    "episode_index": 60,
+    "task": "Place the cylinder into the basket.",
+    "length": 650,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000060.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000060.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000060.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000060.mp4"
+  },
+  {
+    "episode_index": 61,
+    "task": "Pick up the red cup on the table.",
+    "length": 767,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000061.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000061.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000061.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000061.mp4"
+  },
+  {
+    "episode_index": 62,
+    "task": "Pick up the red cup on the table.",
+    "length": 721,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000062.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000062.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000062.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000062.mp4"
+  },
+  {
+    "episode_index": 63,
+    "task": "Place the cylinder into the basket.",
+    "length": 646,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000063.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000063.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000063.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000063.mp4"
+  },
+  {
+    "episode_index": 64,
+    "task": "Pick up the red cup on the table.",
+    "length": 626,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000064.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000064.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000064.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000064.mp4"
+  },
+  {
+    "episode_index": 65,
+    "task": "Pick up the red cup on the table.",
+    "length": 727,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000065.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000065.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000065.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000065.mp4"
+  },
+  {
+    "episode_index": 66,
+    "task": "Place the cylinder into the basket.",
+    "length": 606,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000066.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000066.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000066.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000066.mp4"
+  },
+  {
+    "episode_index": 67,
+    "task": "Pick up the red cup on the table.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000067.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000067.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000067.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000067.mp4"
+  },
+  {
+    "episode_index": 68,
+    "task": "Pick up the red cup on the table.",
+    "length": 796,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000068.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000068.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000068.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000068.mp4"
+  },
+  {
+    "episode_index": 69,
+    "task": "Pick up the red cup on the table.",
+    "length": 657,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000069.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000069.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000069.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000069.mp4"
+  },
+  {
+    "episode_index": 70,
+    "task": "Place the cylinder into the basket.",
+    "length": 676,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000070.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000070.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000070.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000070.mp4"
+  },
+  {
+    "episode_index": 71,
+    "task": "Pick up the red cup on the table.",
+    "length": 776,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000071.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000071.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000071.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000071.mp4"
+  },
+  {
+    "episode_index": 72,
+    "task": "Pick up the red cup on the table.",
+    "length": 790,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000072.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000072.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000072.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000072.mp4"
+  },
+  {
+    "episode_index": 73,
+    "task": "Place the cylinder into the basket.",
+    "length": 677,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000073.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000073.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000073.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000073.mp4"
+  },
+  {
+    "episode_index": 74,
+    "task": "Pick up the red cup on the table.",
+    "length": 383,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000074.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000074.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000074.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000074.mp4"
+  },
+  {
+    "episode_index": 75,
+    "task": "Place the cylinder into the basket.",
+    "length": 656,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000075.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000075.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000075.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000075.mp4"
+  },
+  {
+    "episode_index": 76,
+    "task": "Pick up the red cup on the table.",
+    "length": 900,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000076.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000076.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000076.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000076.mp4"
+  },
+  {
+    "episode_index": 77,
+    "task": "Place the cylinder into the basket.",
+    "length": 757,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000077.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000077.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000077.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000077.mp4"
+  },
+  {
+    "episode_index": 78,
+    "task": "Pick up the red cup on the table.",
+    "length": 922,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000078.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000078.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000078.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000078.mp4"
+  },
+  {
+    "episode_index": 79,
+    "task": "Place the cylinder into the basket.",
+    "length": 738,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000079.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000079.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000079.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000079.mp4"
+  },
+  {
+    "episode_index": 80,
+    "task": "Pick up the red cup on the table.",
+    "length": 777,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000080.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000080.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000080.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000080.mp4"
+  },
+  {
+    "episode_index": 81,
+    "task": "Place the cylinder into the basket.",
+    "length": 767,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000081.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000081.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000081.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000081.mp4"
+  },
+  {
+    "episode_index": 82,
+    "task": "Pick up the red cup on the table.",
+    "length": 800,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000082.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000082.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000082.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000082.mp4"
+  },
+  {
+    "episode_index": 83,
+    "task": "Place the cylinder into the basket.",
+    "length": 721,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000083.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000083.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000083.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000083.mp4"
+  },
+  {
+    "episode_index": 84,
+    "task": "Pick up the red cup on the table.",
+    "length": 805,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000084.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000084.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000084.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000084.mp4"
+  },
+  {
+    "episode_index": 85,
+    "task": "Place the cylinder into the basket.",
+    "length": 626,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000085.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000085.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000085.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000085.mp4"
+  },
+  {
+    "episode_index": 86,
+    "task": "Pick up the red cup on the table.",
+    "length": 751,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000086.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000086.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000086.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000086.mp4"
+  },
+  {
+    "episode_index": 87,
+    "task": "Place the cylinder into the basket.",
+    "length": 727,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000087.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000087.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000087.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000087.mp4"
+  },
+  {
+    "episode_index": 88,
+    "task": "Pick up the red cup on the table.",
+    "length": 829,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000088.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000088.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000088.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000088.mp4"
+  },
+  {
+    "episode_index": 89,
+    "task": "Place the cylinder into the basket.",
+    "length": 719,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000089.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000089.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000089.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000089.mp4"
+  },
+  {
+    "episode_index": 90,
+    "task": "Pick up the red cup on the table.",
+    "length": 806,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000090.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000090.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000090.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000090.mp4"
+  },
+  {
+    "episode_index": 91,
+    "task": "Place the cylinder into the basket.",
+    "length": 796,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000091.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000091.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000091.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000091.mp4"
+  },
+  {
+    "episode_index": 92,
+    "task": "Pick up the red cup on the table.",
+    "length": 113,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000092.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000092.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000092.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000092.mp4"
+  },
+  {
+    "episode_index": 93,
+    "task": "Place the cylinder into the basket.",
+    "length": 657,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000093.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000093.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000093.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000093.mp4"
+  },
+  {
+    "episode_index": 94,
+    "task": "Pick up the red cup on the table.",
+    "length": 852,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000094.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000094.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000094.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000094.mp4"
+  },
+  {
+    "episode_index": 95,
+    "task": "Pick up the red cup on the table.",
+    "length": 778,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000095.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000095.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000095.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000095.mp4"
+  },
+  {
+    "episode_index": 96,
+    "task": "Place the cylinder into the basket.",
+    "length": 776,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000096.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000096.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000096.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000096.mp4"
+  },
+  {
+    "episode_index": 97,
+    "task": "Pick up the red cup on the table.",
+    "length": 799,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000097.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000097.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000097.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000097.mp4"
+  },
+  {
+    "episode_index": 98,
+    "task": "Place the cylinder into the basket.",
+    "length": 790,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000098.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000098.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000098.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000098.mp4"
+  },
+  {
+    "episode_index": 99,
+    "task": "Pick up the red cup on the table.",
+    "length": 658,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000099.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000099.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000099.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000099.mp4"
+  },
+  {
+    "episode_index": 100,
+    "task": "Place the cylinder into the basket.",
+    "length": 383,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000100.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000100.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000100.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000100.mp4"
+  },
+  {
+    "episode_index": 101,
+    "task": "Pick up the red cup on the table.",
+    "length": 826,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000101.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000101.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000101.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000101.mp4"
+  },
+  {
+    "episode_index": 102,
+    "task": "Place the cylinder into the basket.",
+    "length": 900,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000102.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000102.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000102.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000102.mp4"
+  },
+  {
+    "episode_index": 103,
+    "task": "Pick up the red cup on the table.",
+    "length": 768,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000103.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000103.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000103.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000103.mp4"
+  },
+  {
+    "episode_index": 104,
+    "task": "Place the cylinder into the basket.",
+    "length": 922,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000104.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000104.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000104.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000104.mp4"
+  },
+  {
+    "episode_index": 105,
+    "task": "Pick up the red cup on the table.",
+    "length": 748,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000105.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000105.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000105.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000105.mp4"
+  },
+  {
+    "episode_index": 106,
+    "task": "Place the cylinder into the basket.",
+    "length": 777,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000106.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000106.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000106.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000106.mp4"
+  },
+  {
+    "episode_index": 107,
+    "task": "Pick up the red cup on the table.",
+    "length": 811,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000107.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000107.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000107.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000107.mp4"
+  },
+  {
+    "episode_index": 108,
+    "task": "Place the cylinder into the basket.",
+    "length": 800,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000108.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000108.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000108.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000108.mp4"
+  },
+  {
+    "episode_index": 109,
+    "task": "Pick up the red cup on the table.",
+    "length": 857,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000109.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000109.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000109.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000109.mp4"
+  },
+  {
+    "episode_index": 110,
+    "task": "Place the cylinder into the basket.",
+    "length": 805,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000110.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000110.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000110.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000110.mp4"
+  },
+  {
+    "episode_index": 111,
+    "task": "Pick up the red cup on the table.",
+    "length": 467,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000111.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000111.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000111.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000111.mp4"
+  },
+  {
+    "episode_index": 112,
+    "task": "Place the cylinder into the basket.",
+    "length": 751,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000112.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000112.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000112.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000112.mp4"
+  },
+  {
+    "episode_index": 113,
+    "task": "Pick up the red cup on the table.",
+    "length": 839,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000113.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000113.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000113.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000113.mp4"
+  },
+  {
+    "episode_index": 114,
+    "task": "Place the cylinder into the basket.",
+    "length": 829,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000114.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000114.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000114.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000114.mp4"
+  },
+  {
+    "episode_index": 115,
+    "task": "Pick up the red cup on the table.",
+    "length": 789,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000115.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000115.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000115.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000115.mp4"
+  },
+  {
+    "episode_index": 116,
+    "task": "Place the cylinder into the basket.",
+    "length": 806,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000116.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000116.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000116.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000116.mp4"
+  },
+  {
+    "episode_index": 117,
+    "task": "Pick up the red cup on the table.",
+    "length": 804,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000117.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000117.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000117.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000117.mp4"
+  },
+  {
+    "episode_index": 118,
+    "task": "Place the cylinder into the basket.",
+    "length": 113,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000118.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000118.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000118.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000118.mp4"
+  },
+  {
+    "episode_index": 119,
+    "task": "Pick up the red cup on the table.",
+    "length": 676,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000119.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000119.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000119.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000119.mp4"
+  },
+  {
+    "episode_index": 120,
+    "task": "Place the cylinder into the basket.",
+    "length": 852,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000120.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000120.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000120.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000120.mp4"
+  },
+  {
+    "episode_index": 121,
+    "task": "Pick up the red cup on the table.",
+    "length": 704,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000121.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000121.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000121.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000121.mp4"
+  },
+  {
+    "episode_index": 122,
+    "task": "Pick up the red cup on the table.",
+    "length": 744,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000122.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000122.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000122.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000122.mp4"
+  },
+  {
+    "episode_index": 123,
+    "task": "Pick up the red cup on the table.",
+    "length": 673,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000123.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000123.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000123.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000123.mp4"
+  },
+  {
+    "episode_index": 124,
+    "task": "Place the cylinder into the basket.",
+    "length": 778,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000124.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000124.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000124.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000124.mp4"
+  },
+  {
+    "episode_index": 125,
+    "task": "Pick up the red cup on the table.",
+    "length": 415,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000125.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000125.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000125.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000125.mp4"
+  },
+  {
+    "episode_index": 126,
+    "task": "Place the cylinder into the basket.",
+    "length": 799,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000126.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000126.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000126.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000126.mp4"
+  },
+  {
+    "episode_index": 127,
+    "task": "Pick up the red cup on the table.",
+    "length": 911,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000127.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000127.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000127.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000127.mp4"
+  },
+  {
+    "episode_index": 128,
+    "task": "Pick up the red cup on the table.",
+    "length": 815,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000128.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000128.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000128.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000128.mp4"
+  },
+  {
+    "episode_index": 129,
+    "task": "Pick up the red cup on the table.",
+    "length": 759,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000129.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000129.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000129.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000129.mp4"
+  },
+  {
+    "episode_index": 130,
+    "task": "Pick up the red cup on the table.",
+    "length": 767,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000130.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000130.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000130.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000130.mp4"
+  },
+  {
+    "episode_index": 131,
+    "task": "Pick up the red cup on the table.",
+    "length": 731,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000131.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000131.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000131.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000131.mp4"
+  },
+  {
+    "episode_index": 132,
+    "task": "Pick up the red cup on the table.",
+    "length": 685,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000132.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000132.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000132.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000132.mp4"
+  },
+  {
+    "episode_index": 133,
+    "task": "Place the cylinder into the basket.",
+    "length": 658,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000133.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000133.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000133.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000133.mp4"
+  },
+  {
+    "episode_index": 134,
+    "task": "Pick up the red cup on the table.",
+    "length": 915,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000134.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000134.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000134.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000134.mp4"
+  },
+  {
+    "episode_index": 135,
+    "task": "Place the cylinder into the basket.",
+    "length": 826,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000135.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000135.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000135.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000135.mp4"
+  },
+  {
+    "episode_index": 136,
+    "task": "Pick up the red cup on the table.",
+    "length": 723,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000136.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000136.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000136.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000136.mp4"
+  },
+  {
+    "episode_index": 137,
+    "task": "Place the cylinder into the basket.",
+    "length": 768,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000137.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000137.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000137.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000137.mp4"
+  },
+  {
+    "episode_index": 138,
+    "task": "Pick up the red cup on the table.",
+    "length": 689,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000138.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000138.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000138.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000138.mp4"
+  },
+  {
+    "episode_index": 139,
+    "task": "Place the cylinder into the basket.",
+    "length": 748,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000139.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000139.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000139.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000139.mp4"
+  },
+  {
+    "episode_index": 140,
+    "task": "Pick up the red cup on the table.",
+    "length": 691,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000140.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000140.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000140.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000140.mp4"
+  },
+  {
+    "episode_index": 141,
+    "task": "Place the cylinder into the basket.",
+    "length": 811,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000141.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000141.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000141.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000141.mp4"
+  },
+  {
+    "episode_index": 142,
+    "task": "Pick up the red cup on the table.",
+    "length": 687,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000142.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000142.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000142.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000142.mp4"
+  },
+  {
+    "episode_index": 143,
+    "task": "Pick up the red cup on the table.",
+    "length": 718,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000143.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000143.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000143.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000143.mp4"
+  },
+  {
+    "episode_index": 144,
+    "task": "Place the cylinder into the basket.",
+    "length": 857,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000144.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000144.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000144.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000144.mp4"
+  },
+  {
+    "episode_index": 145,
+    "task": "Pick up the red cup on the table.",
+    "length": 717,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000145.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000145.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000145.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000145.mp4"
+  },
+  {
+    "episode_index": 146,
+    "task": "Pick up the red cup on the table.",
+    "length": 1058,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000146.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000146.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000146.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000146.mp4"
+  },
+  {
+    "episode_index": 147,
+    "task": "Pick up the red cup on the table.",
+    "length": 700,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000147.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000147.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000147.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000147.mp4"
+  },
+  {
+    "episode_index": 148,
+    "task": "Place the cylinder into the basket.",
+    "length": 467,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000148.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000148.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000148.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000148.mp4"
+  },
+  {
+    "episode_index": 149,
+    "task": "Pick up the red cup on the table.",
+    "length": 414,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000149.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000149.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000149.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000149.mp4"
+  },
+  {
+    "episode_index": 150,
+    "task": "Place the cylinder into the basket.",
+    "length": 839,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000150.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000150.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000150.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000150.mp4"
+  },
+  {
+    "episode_index": 151,
+    "task": "Pick up the red cup on the table.",
+    "length": 805,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000151.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000151.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000151.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000151.mp4"
+  },
+  {
+    "episode_index": 152,
+    "task": "Place the cylinder into the basket.",
+    "length": 789,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000152.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000152.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000152.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000152.mp4"
+  },
+  {
+    "episode_index": 153,
+    "task": "Pick up the red cup on the table.",
+    "length": 753,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000153.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000153.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000153.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000153.mp4"
+  },
+  {
+    "episode_index": 154,
+    "task": "Place the cylinder into the basket.",
+    "length": 804,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000154.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000154.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000154.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000154.mp4"
+  },
+  {
+    "episode_index": 155,
+    "task": "Pick up the red cup on the table.",
+    "length": 939,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000155.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000155.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000155.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000155.mp4"
+  },
+  {
+    "episode_index": 156,
+    "task": "Place the cylinder into the basket.",
+    "length": 676,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000156.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000156.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000156.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000156.mp4"
+  },
+  {
+    "episode_index": 157,
+    "task": "Pick up the red cup on the table.",
+    "length": 715,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000157.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000157.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000157.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000157.mp4"
+  },
+  {
+    "episode_index": 158,
+    "task": "Place the cylinder into the basket.",
+    "length": 704,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000158.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000158.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000158.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000158.mp4"
+  },
+  {
+    "episode_index": 159,
+    "task": "Pick up the red cup on the table.",
+    "length": 705,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000159.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000159.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000159.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000159.mp4"
+  },
+  {
+    "episode_index": 160,
+    "task": "Pick up the red cup on the table.",
+    "length": 849,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000160.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000160.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000160.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000160.mp4"
+  },
+  {
+    "episode_index": 161,
+    "task": "Place the cylinder into the basket.",
+    "length": 744,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000161.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000161.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000161.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000161.mp4"
+  },
+  {
+    "episode_index": 162,
+    "task": "Pick up the red cup on the table.",
+    "length": 666,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000162.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000162.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000162.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000162.mp4"
+  },
+  {
+    "episode_index": 163,
+    "task": "Place the cylinder into the basket.",
+    "length": 673,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000163.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000163.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000163.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000163.mp4"
+  },
+  {
+    "episode_index": 164,
+    "task": "Pick up the red cup on the table.",
+    "length": 610,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000164.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000164.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000164.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000164.mp4"
+  },
+  {
+    "episode_index": 165,
+    "task": "Place the cylinder into the basket.",
+    "length": 415,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000165.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000165.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000165.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000165.mp4"
+  },
+  {
+    "episode_index": 166,
+    "task": "Pick up the red cup on the table.",
+    "length": 635,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000166.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000166.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000166.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000166.mp4"
+  },
+  {
+    "episode_index": 167,
+    "task": "Place the cylinder into the basket.",
+    "length": 911,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000167.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000167.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000167.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000167.mp4"
+  },
+  {
+    "episode_index": 168,
+    "task": "Pick up the red cup on the table.",
+    "length": 639,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000168.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000168.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000168.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000168.mp4"
+  },
+  {
+    "episode_index": 169,
+    "task": "Place the cylinder into the basket.",
+    "length": 815,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000169.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000169.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000169.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000169.mp4"
+  },
+  {
+    "episode_index": 170,
+    "task": "Pick up the red cup on the table.",
+    "length": 667,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000170.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000170.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000170.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000170.mp4"
+  },
+  {
+    "episode_index": 171,
+    "task": "Place the cylinder into the basket.",
+    "length": 759,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000171.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000171.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000171.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000171.mp4"
+  },
+  {
+    "episode_index": 172,
+    "task": "Pick up the red cup on the table.",
+    "length": 663,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000172.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000172.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000172.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000172.mp4"
+  },
+  {
+    "episode_index": 173,
+    "task": "Place the cylinder into the basket.",
+    "length": 767,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000173.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000173.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000173.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000173.mp4"
+  },
+  {
+    "episode_index": 174,
+    "task": "Pick up the red cup on the table.",
+    "length": 692,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000174.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000174.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000174.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000174.mp4"
+  },
+  {
+    "episode_index": 175,
+    "task": "Place the cylinder into the basket.",
+    "length": 731,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000175.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000175.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000175.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000175.mp4"
+  },
+  {
+    "episode_index": 176,
+    "task": "Pick up the red cup on the table.",
+    "length": 702,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000176.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000176.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000176.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000176.mp4"
+  },
+  {
+    "episode_index": 177,
+    "task": "Place the cylinder into the basket.",
+    "length": 685,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000177.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000177.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000177.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000177.mp4"
+  },
+  {
+    "episode_index": 178,
+    "task": "Pick up the red cup on the table.",
+    "length": 694,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000178.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000178.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000178.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000178.mp4"
+  },
+  {
+    "episode_index": 179,
+    "task": "Place the cylinder into the basket.",
+    "length": 915,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000179.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000179.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000179.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000179.mp4"
+  },
+  {
+    "episode_index": 180,
+    "task": "Place the cylinder into the basket.",
+    "length": 723,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000180.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000180.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000180.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000180.mp4"
+  },
+  {
+    "episode_index": 181,
+    "task": "Place the cylinder into the basket.",
+    "length": 689,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000181.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000181.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000181.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000181.mp4"
+  },
+  {
+    "episode_index": 182,
+    "task": "Place the cylinder into the basket.",
+    "length": 691,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000182.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000182.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000182.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000182.mp4"
+  },
+  {
+    "episode_index": 183,
+    "task": "Place the cylinder into the basket.",
+    "length": 687,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000183.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000183.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000183.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000183.mp4"
+  },
+  {
+    "episode_index": 184,
+    "task": "Place the cylinder into the basket.",
+    "length": 718,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000184.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000184.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000184.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000184.mp4"
+  },
+  {
+    "episode_index": 185,
+    "task": "Place the cylinder into the basket.",
+    "length": 717,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000185.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000185.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000185.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000185.mp4"
+  },
+  {
+    "episode_index": 186,
+    "task": "Place the cylinder into the basket.",
+    "length": 1058,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000186.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000186.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000186.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000186.mp4"
+  },
+  {
+    "episode_index": 187,
+    "task": "Place the cylinder into the basket.",
+    "length": 700,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000187.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000187.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000187.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000187.mp4"
+  },
+  {
+    "episode_index": 188,
+    "task": "Place the cylinder into the basket.",
+    "length": 414,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000188.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000188.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000188.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000188.mp4"
+  },
+  {
+    "episode_index": 189,
+    "task": "Place the cylinder into the basket.",
+    "length": 805,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000189.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000189.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000189.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000189.mp4"
+  },
+  {
+    "episode_index": 190,
+    "task": "Place the cylinder into the basket.",
+    "length": 753,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000190.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000190.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000190.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000190.mp4"
+  },
+  {
+    "episode_index": 191,
+    "task": "Place the cylinder into the basket.",
+    "length": 939,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000191.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000191.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000191.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000191.mp4"
+  },
+  {
+    "episode_index": 192,
+    "task": "Place the cylinder into the basket.",
+    "length": 715,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000192.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000192.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000192.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000192.mp4"
+  },
+  {
+    "episode_index": 193,
+    "task": "Place the cylinder into the basket.",
+    "length": 705,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000193.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000193.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000193.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000193.mp4"
+  },
+  {
+    "episode_index": 194,
+    "task": "Place the cylinder into the basket.",
+    "length": 849,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000194.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000194.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000194.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000194.mp4"
+  },
+  {
+    "episode_index": 195,
+    "task": "Place the cylinder into the basket.",
+    "length": 666,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000195.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000195.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000195.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000195.mp4"
+  },
+  {
+    "episode_index": 196,
+    "task": "Place the cylinder into the basket.",
+    "length": 610,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000196.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000196.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000196.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000196.mp4"
+  },
+  {
+    "episode_index": 197,
+    "task": "Place the cylinder into the basket.",
+    "length": 635,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000197.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000197.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000197.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000197.mp4"
+  },
+  {
+    "episode_index": 198,
+    "task": "Place the cylinder into the basket.",
+    "length": 639,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000198.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000198.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000198.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000198.mp4"
+  },
+  {
+    "episode_index": 199,
+    "task": "Place the cylinder into the basket.",
+    "length": 667,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000199.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000199.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000199.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000199.mp4"
+  },
+  {
+    "episode_index": 200,
+    "task": "Place the cylinder into the basket.",
+    "length": 663,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000200.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000200.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000200.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000200.mp4"
+  },
+  {
+    "episode_index": 201,
+    "task": "Place the cylinder into the basket.",
+    "length": 692,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000201.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000201.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000201.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000201.mp4"
+  },
+  {
+    "episode_index": 202,
+    "task": "Place the cylinder into the basket.",
+    "length": 702,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000202.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000202.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000202.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000202.mp4"
+  },
+  {
+    "episode_index": 203,
+    "task": "Place the cylinder into the basket.",
+    "length": 694,
+    "parquet_path": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/data/chunk-000/episode_000203.parquet",
+    "cam_high": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_high/episode_000203.mp4",
+    "cam_left_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_left_wrist/episode_000203.mp4",
+    "cam_right_wrist": "/home/hosseinbarati/datasets/g1_pickplace/G1_Dex1_PickPlaceCylinder_Dataset_Sim/videos/chunk-000/observation.images.cam_right_wrist/episode_000203.mp4"
+  }
+]

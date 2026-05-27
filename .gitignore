@@ -1,0 +1,9 @@
+*.h5
+*.pt
+*.ckpt
+*.pkl
+*.pyc
+__pycache__/
+logs/
+data/
+datasets/
