@@ -6,7 +6,7 @@ The dataset provided in [Hugging Face](https://huggingface.co/datasets/unitreero
 # 3. Unitree_G1 BC Algorithm
 1- Run below commands to convert the dataset to the format which is acceptable for Robomimic (hdf5) and split it for train and validation. 
 ```
-python ~/patch_g1_robomimic_hdf5.py
+python patch_g1_robomimic_hdf5.py
 ```
 ```
 cd ~/robomimic
@@ -25,3 +25,14 @@ python robomimic/scripts/train.py \
 ```
 python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cylinder-G129-Dex1-Joint   --enable_dex1_dds   --robot_type g129   --action_source policy   --model_path /MODEL PATH/
 ```
+# 4. Unitree_G1 BC Algorithm
+1- Run this command to train the model via the custom script. 
+```
+python train_act.py
+```
+2- un this command to deploy the learned policy on G1 robot in Isaac Lab simulation.
+```
+python sim_main.py   --device cpu   --enable_cameras   --task Isaac-PickPlace-Cylinder-G129-Dex1-Joint   --enable_dex1_dds   --robot_type g129   --action_source act   --model_path /MODEL PATH/
+```
+
+
